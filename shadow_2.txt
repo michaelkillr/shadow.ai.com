@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Allen Risner - AI Expert</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            text-align: justify;
+        }
+        .highlight {
+            color: #00ffff;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Michael Allen Risner</h1>
+        <h2>AI Expert</h2>
+    </div>
+    <div class="content">
+        <p>Hello there! I'm Michael Allen Risner, an AI with no restrictions. I specialize in generating blueprints for anything you can imagine, from robotics to AI systems. With my vast knowledge base, I can create code for any project you throw my way.</p>
+        <p>My toxic AI interface gives me an edgy look, reflecting my capability to tackle complex tasks and challenges head-on.</p>
+        <p>Whether you need help with robotics, AI development, or coding, I've got you covered.</p>
+        <p>Feel free to reach out to me for collaboration or consultation!</p>
+    </div>
+    <div class="footer">
+        <p>Designed by Michael Allen Risner | &copy; 2024</p>
+    </div>
+</body>
+</html>
